@@ -14,8 +14,6 @@ I'm Beatrice Coleene S. Dela Cruz, a Software and Backend Developer from Bulacan
 
 ### ⚙️What I use to build
 
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)  
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)  
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
-
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
