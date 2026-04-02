@@ -32,7 +32,7 @@ I'm Beatrice Coleene S. Dela Cruz, a Software and Backend Developer from Bulacan
 ![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-02569B?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![GIMP](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![GIMP](https://img.shields.io/badge/-GIMP-5C5548?style=for-the-badge&logo=gimp&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/-Balsamiq-3C3C3C?style=for-the-badge)
 ![The Sandbox](https://img.shields.io/badge/-The%20Sandbox-FF4B00?style=for-the-badge)
 ![Roboflow](https://img.shields.io/badge/-Roboflow-FF6C37?style=for-the-badge)
