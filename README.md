@@ -40,4 +40,6 @@ I'm Beatrice Coleene S. Dela Cruz, a Software and Backend Developer from Bulacan
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatricecoleene&show_icons=true&theme=radical)
+
 
