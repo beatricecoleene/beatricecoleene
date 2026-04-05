@@ -38,9 +38,12 @@ I'm Beatrice Coleene S. Dela Cruz, a Software and Backend Developer from Bulacan
 ![Roboflow](https://img.shields.io/badge/-Roboflow-FF6C37?style=for-the-badge)
 ![COLAB](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricecoleene&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=beatricecoleene&theme=react-dark)
 
 ![Streak](https://streak-stats.demolab.com/?user=beatricecoleene&theme=radical)
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=beatricecoleene&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
+
 
